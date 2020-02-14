@@ -24,3 +24,14 @@ ul{
   font-size: 20px;
   line-height: 30px;
 }
+
+.light-background{
+  background-color: rgb(250, 246, 237);
+  color:orange;
+}
+
+.dark-backgraund{
+  background-color: grey;
+  color: white;
+  
+}
